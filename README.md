@@ -1,2 +1,2 @@
 # SimpleBlockChain
-SBC hi KSR hai
+This is a simple block chain app.
